@@ -1,0 +1,62 @@
+[
+    {
+        "title": "All Night",
+        "artist": "The Vamps",
+        "genre": ["EDM"],
+        "year": "2016"
+    },
+    {
+        "title": "Heavenly Side",
+        "artist": "Illenium",
+        "genre": ["EDM"],
+        "year": "2021"
+    },
+    {
+        "title": "In the Name of Love",
+        "artist": "Martin Garrix",
+        "genre": ["EDM"],
+        "year": "2016"
+    },
+    {
+        "title": "Do What I Want",
+        "artist": "Lil Uzi Vert",
+        "genre": ["Rap"],
+        "year": "2016"
+    },
+    {
+        "title": "March Madness",
+        "artist": "Future",
+        "genre": ["Rap"],
+        "year": "2015"
+    },
+    {
+        "title": "NO BYSTANDERS",
+        "artist": "Travis Scott",
+        "genre": ["Rap"],
+        "year": "2018"
+    },
+    {
+        "title": "White Iverson",
+        "artist": "Post Malone",
+        "genre": ["Rap"],
+        "year": "2015"
+    },
+    {
+        "title": "Marathon",
+        "artist": "Rush",
+        "genre": ["Rock"],
+        "year": "1985"
+    },
+    {
+        "title": "The Garden",
+        "artist": "Rush",
+        "genre": ["Rock"],
+        "year": "2012"
+    },
+    {
+        "title": "The Analog Kid",
+        "artist": "Rush",
+        "genre": ["Rock"],
+        "year": "1982"
+    }
+]
